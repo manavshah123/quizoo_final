@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alfa_slab_one</item>
+        <item>@font/allerta</item>
+        <item>@font/anton</item>
+        <item>@font/baloo</item>
+        <item>@font/bangers</item>
+        <item>@font/baumans</item>
+        <item>@font/bevan</item>
+        <item>@font/boogaloo</item>
+        <item>@font/fredoka_one</item>
+    </array>
+</resources>

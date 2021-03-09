@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quizoo Final</string>
+    <string name="sign_in">Sign In</string>
+    <string name="q">Q</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up">Sign up</string>
+
+    <string name="facebook_app_id">1023771358151183</string>
+    <string name="fb_login_protocol_scheme">fb1023771358151183</string>
+
+</resources>

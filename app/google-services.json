@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301470104757",
+    "project_id": "quizoo-final",
+    "storage_bucket": "quizoo-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301470104757:android:43764b98c167a8b84952fc",
+        "android_client_info": {
+          "package_name": "com.app.quizoofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301470104757-la490ek6oip40bc3qp74eefng8ubpbq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJQlwNYpesgUHJw6aos5C8LjNHEEBUUgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301470104757-la490ek6oip40bc3qp74eefng8ubpbq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
